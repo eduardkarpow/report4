@@ -1,0 +1,11 @@
+<BuildOptions>
+  <BuildOption>
+    <SourceFile Value="C:/projects/prac4/Physical/Config1/4PP065_0571_P74/Cpu.sw" />
+    <Query Value="/ns:SwConfiguration/ns:TaskClass/*$$Name,Source" />
+    <Xml>
+      <Task Name="ncsdcctrl" Source="ncsdcctrl.prg" />
+      <Task Name="Program" Source="Program.prg" />
+      <Task Name="Program1" Source="Program1.prg" />
+    </Xml>
+  </BuildOption>
+</BuildOptions>
